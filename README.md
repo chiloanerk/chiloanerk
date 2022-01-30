@@ -5,7 +5,8 @@
 - 📫 How to reach me: chiloane.rk@live.com
 
 What's on my list?
-26/01/2021 - I plan on creating a database of login credentials for users to use on a signin webpage.
+26/01/2021 - I am busy with some php for the time being and my work will not be public until i have a substantial
+project to share in order to not crowd my repos.
 
 <!---
 chiloanerk/chiloanerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

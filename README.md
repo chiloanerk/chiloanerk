@@ -18,4 +18,4 @@
 
 🌈 Let's connect and build something awesome together! Feel free to reach out, and let's discuss how we can collaborate on exciting projects or share insights to help each other grow as developers.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiloanerk)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues,contribs&count_private=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiloanerk)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs,issues,contribs&count_private=true&theme=transparent)

@@ -5,7 +5,7 @@
 - 📫 How to reach me: chiloane.rk@live.com
 
 What's on my list?
-i plan on creating a full fledged social media app like twitter
+Building a user generated content site.
 
 <!---
 chiloanerk/chiloanerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

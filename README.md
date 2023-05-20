@@ -17,3 +17,5 @@
 💡 Fun fact: When I'm not coding, you can find me spending time with my family, reading the latest tech blogs, or fixing machines as I am also a qualified earthmoving mechanic. I believe that diverse experiences fuel creativity and enhance problem-solving abilities.
 
 🌈 Let's connect and build something awesome together! Feel free to reach out, and let's discuss how we can collaborate on exciting projects or share insights to help each other grow as developers.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiloanerk)](https://github.com/anuraghazra/github-readme-stats)

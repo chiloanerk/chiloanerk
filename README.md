@@ -22,5 +22,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiloanerk)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=chiloanerk&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=chiloanerk)](https://github.com/ryo-ma/github-profile-trophy)
 

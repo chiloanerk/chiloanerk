@@ -18,7 +18,20 @@
 
 🌈 Let's connect and build something awesome together! Feel free to reach out, and let's discuss how we can collaborate on exciting projects or share insights to help each other grow as developers.
 
-`![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiloanerk&count_private=true&hide=stars,prs,issues,contribs) [![trophy](https://github-profile-trophy.vercel.app/?username=chiloanerk&title=Followers,Commits,Joined2020,Repositories)](https://github.com/ryo-ma/github-profile-trophy)`
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=chiloanerk&count_private=true&hide=stars,prs,issues,contribs" alt="Anurag's GitHub stats" />
+  </div>
+  <div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=chiloanerk&title=Followers,Commits,Joined2020,Repositories" alt="trophy" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiloanerk" alt="Top Langs" />
+    </a>
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiloanerk)](https://github.com/anuraghazra/github-readme-stats)

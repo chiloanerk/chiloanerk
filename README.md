@@ -2,7 +2,7 @@
 
 💻 I'm a passionate Full Stack Web Developer with expertise in front-end and back-end technologies. My main focus is on creating efficient and scalable web applications with a strong foundation in database management.
 
-🎓 Currently, I'm pursuing an IT diploma at the University of South Africa, where I'm gaining comprehensive knowledge of software development principles, data structures, algorithms, and database management systems.
+🎓 I have recently completed an IT diploma at the University of South Africa, where I gained comprehensive knowledge of software and web development principles, IT management, networking, and database management systems.
 
 🌟 I'm actively seeking collaborative opportunities on open-source projects. I love being part of a diverse team, contributing my skills, and learning from other talented developers. If you have a project that needs an extra pair of hands, let's connect!
 

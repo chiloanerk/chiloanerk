@@ -12,9 +12,9 @@
 
 🌐 Check out my portfolio website to explore my projects and learn more about my work: this github for now (https://github.com/chiloanerk)
 
-📚 My favorite technologies: I have hands-on experience with HTML, CSS, JavaScript, PHP & MariaDB/MySQL, VB.NET, Java, some C and a bit of Python. I'm always eager to explore new tools and frameworks to expand my skillset.
+📚 My favorite technologies: I have hands-on experience with HTML, CSS, JavaScript, React, VueJs, PHP & MariaDB/MySQL, VB.NET, Java, some C and a bit of Python. I'm always eager to explore new tools and frameworks to expand my skillset.
 
-💡 Fun fact: When I'm not coding, you can find me spending time with my family, reading the latest tech blogs, or fixing machines as I am also a qualified earthmoving mechanic. I believe that diverse experiences fuel creativity and enhance problem-solving abilities.
+💡 When I'm not coding, you can find me spending time with my family, reading the latest tech blogs, or fixing machines as I am also a qualified earthmoving mechanic. I believe that diverse experiences fuel creativity and enhance problem-solving abilities.
 
 🌈 Let's connect and build something awesome together! Feel free to reach out, and let's discuss how we can collaborate on exciting projects or share insights to help each other grow as developers.
 

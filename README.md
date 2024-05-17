@@ -1,4 +1,4 @@
-👋 Hi, I'm Relebogile Chiloane! 
+👋 Hi, I'm Rele Chiloane! 
 
 💻 I'm a passionate Full Stack Web Developer with expertise in front-end and back-end technologies. My main focus is on creating efficient and scalable web applications with a strong foundation in scalable web services and effecient database management. My other interests are in dev ops workflows, I get enjoyment in making development processes easy for myself and others.
 
